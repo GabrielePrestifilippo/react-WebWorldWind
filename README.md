@@ -1,6 +1,7 @@
+##react-WebWorldWind
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-##react-WebWorldWind
 This repository is an attempt to include [NASA WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) framework
 in a basic React application.
 
